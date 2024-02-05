@@ -5,9 +5,7 @@ Un bot Discord basé sur OpenAI's GPT pour des conversations amusantes et intér
 ## Fonctionnalités
 
 - Répond aux messages des utilisateurs en utilisant OpenAI's GPT pour générer des réponses pertinentes.
-- Filtre les messages inappropriés ou offensants en utilisant un système de modération.
-- Peut être ajouté à n'importe quel serveur Discord en utilisant le lien d'invitation fourni ci-dessus.
-
+  
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
